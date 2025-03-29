@@ -48,7 +48,10 @@ class CCCA(CanadaOnlyAward):
                 self.canadian_qsl_list[qsl.station] = qsl
                 if len(self.canadian_qsl_list) >= CCCA_TOTAL:
                   self.eligible = True
-                  return
+                  #return
+
+    print(self.province_count)
+    print("")
 
   def printStatus(self, awardName):
     print(colored(awardName + " Eligibility:", attrs=['bold']), end="")

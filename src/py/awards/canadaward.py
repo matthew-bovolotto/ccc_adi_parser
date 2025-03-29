@@ -26,6 +26,8 @@ class Canadaward(CanadaOnlyAward) :
     self.getCanadianOnlyCalls()
     self.printStatus("Canadaward")
 
+    print("CanadaWard")
+
   def getCanadianOnlyCalls(self):
 
     for qsl in self.qsl_list:

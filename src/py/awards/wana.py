@@ -20,3 +20,5 @@
 # - Contacts made by the same applicant using different callsigns are permitted, although proof is required showing the applicant was holder of that callsign at the time the contact was made.
 # - Contacts made with maritime mobile (/mm) stations do not count towards this award.
 # - Contacts using repeaters do not count towards this award.
+
+
